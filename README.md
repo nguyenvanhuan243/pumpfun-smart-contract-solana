@@ -21,3 +21,6 @@ Progressive Web App (PWA): Add Pump.fun to your desktop for an enhanced experien
 ### Transactions
 You can review the transactions for removing virtual LP and creating Raydium Pools in this smart contract:
 https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
+
+### Best IDE
+- https://beta.solpg.io/
