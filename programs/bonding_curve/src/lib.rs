@@ -22,6 +22,17 @@ pub mod bonding_curve {
         instructions::create_pool(ctx)
     }
 
+    pub fn create_token(
+        ctx: Context<CreateTokenMint>,
+        _token_decimals: u8,
+        token_name: String,
+        token_symbol: String,
+        token_uri: String,
+    ) -> Result<()> {
+        instructions::create_token(ctx, _token_decimals, token_name, token_symbol, token_uri);
+        Ok(())
+    }
+
     pub fn add_liquidity(
         ctx: Context<AddLiquidity>,
     ) -> Result<()> {
