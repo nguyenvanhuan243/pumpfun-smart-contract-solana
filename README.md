@@ -24,3 +24,19 @@ https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28Tx
 
 ### Best IDE
 - https://beta.solpg.io/
+
+```
+cargo build
+```
+
+```
+cargo publish -p bonding_curve
+```
+
+# Fix bug
+```
+cargo login
+```
+
+after create token and paste to terminal
+https://crates.io/settings/tokens
