@@ -35,8 +35,12 @@ cargo publish -p bonding_curve
 
 # Fix bug
 ```
-cargo login
+cargo login "API_TOKEN"
 ```
+
+Now in a terminal, execute cargo login <API_KEY>. You’re now logged into Crates.io and can publish!
+
+
 
 after create token and paste to terminal
 https://crates.io/settings/tokens
