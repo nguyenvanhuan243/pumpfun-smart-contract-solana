@@ -40,3 +40,6 @@ cargo login
 
 after create token and paste to terminal
 https://crates.io/settings/tokens
+
+# Fix bug send email
+- The remote server responded with an error (status 400 Bad Request): A verified email address is required to publish crates to crates.io. Visit https://crates.io/settings/profile to set and verify your email address.
