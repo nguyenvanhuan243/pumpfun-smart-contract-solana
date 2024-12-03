@@ -3,6 +3,7 @@ name = "bonding_curve"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
+license = "MIT"  # Specify your license here
 
 [lib]
 crate-type = ["cdylib", "lib"]
