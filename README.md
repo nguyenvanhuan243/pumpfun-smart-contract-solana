@@ -30,6 +30,23 @@ Now in a terminal, execute cargo login <API_KEY>. You’re now logged into Crate
 # Rust package
 Get token: https://crates.io/settings/tokens
 
+
+# Pump.fun Smart Contract
+Tools for Pump.fun
+This is the Rust/Anchor smart contract for Pump.fun, which includes functionalities to add virtual liquidity pools (LP), remove LP, and create Raydium Pools.
+
+### Best IDE
+- https://beta.solpg.io/
+
+## Create token repo
+- Create token repo: https://github.com/nguyenvanhuan243/pumpfun-create-token-sol
+- Video create token: https://drive.google.com/file/d/1yoSPI1iEjbDZDQPrbUxWCEj45hrk_U2Q/view?usp=sharing
+
+## Bonding curve repo
+- Video Deploy: https://drive.google.com/file/d/1FXKkmb0mUBhEXtNvQbRu_sKo-nCCp6Do/view?usp=sharing
+- Call smart contract function
+![alt text](image.png)
+
 # 🔥 FIOTECH SOLUTIONS
 FIOTECH SOLUTIONS provides a range of services related to cryptocurrency, tokens, coins, exchanges, and financial technology platforms.
 ## Our Services
