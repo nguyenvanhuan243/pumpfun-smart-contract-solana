@@ -8,6 +8,10 @@ https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28Tx
 ### Best IDE
 - https://beta.solpg.io/
 
+
+### Faucet solana
+- https://faucet.solana.com
+
 ```
 cargo build
 ```
