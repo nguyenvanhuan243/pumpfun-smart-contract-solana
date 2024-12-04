@@ -11,9 +11,9 @@ use {
     },
 };
 
-declare_id!("GwvQ53QTu1xz3XXYfG5m5jEqwhMBvVBudPS8TUuFYnhT");
+// declare_id!("GwvQ53QTu1xz3XXYfG5m5jEqwhMBvVBudPS8TUuFYnhT");
 
-#[program]
+// #[program]
 pub mod create_token {
     use super::*;
 
