@@ -32,8 +32,12 @@ pub mod bonding_curve {
         instructions::remove_liquidity(ctx, bump)
     }
 
-    pub fn swap(ctx: Context<Swap>, amount: u64) -> Result<()> {
-        instructions::swap(ctx, amount)
+    pub fn buy(ctx: Context<Buy>, amount: u64) -> Result<()> {
+        instructions::buy(ctx, amount)
+    }
+
+    pub fn sell(ctx: Context<Sell>, amount: u64, bump: u8) -> Result<()> {
+        instructions::sell(ctx, amount, bump)
     }
     
 }
